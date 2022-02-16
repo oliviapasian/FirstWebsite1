@@ -1,0 +1,73 @@
+* {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    color: darkmagenta;
+}
+p {
+    color: violet;
+    background: rgba(241, 252, 178, 0.575);
+    font-weight: normal;
+    text-transform: none; /* this is a comment*/
+    font-style: normal;
+    line-height: 20px;
+    letter-spacing: normal;
+    text-decoration: none;
+    font-size: small;
+}
+strong {
+    font-weight: normal;
+}
+body {
+    background: pink;
+}
+
+#citation {
+    color: aquamarine;
+    background: cornflowerblue
+}
+.newclass {
+    font-size: larger;
+    color: brown;
+}
+
+a {
+    font-size: larger;
+}
+a:visited {
+    color: yellow;
+}
+
+a:hover {
+    color: aliceblue;
+    text-decoration: none;
+}
+
+#container {
+    background: cornflowerblue;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 20px;
+    border-style: dotted;
+    width: fit-content;
+}
+#shape {
+    height: 400px;
+    width: 200px;
+    background: blue;
+}
+
+#circle {
+    height: 200px;
+    width: 200px;
+    background: papayawhip;
+    border-radius: 200px;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
